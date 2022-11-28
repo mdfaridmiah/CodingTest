@@ -1,8 +1,7 @@
-# ignore extentions
+# ignore extentions of cpp
 *.o
 *.exe
-*.rtf
-*.txt
+
 
 #from > https://stackoverflow.com/questions/11050487/git-creating-a-gitignore-file 
 ###################
