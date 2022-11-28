@@ -1,6 +1,7 @@
-# ignore files
+# ignore extentions
 *.o
 *.exe
+*.rtf
 
 #from > https://stackoverflow.com/questions/11050487/git-creating-a-gitignore-file 
 ###################
